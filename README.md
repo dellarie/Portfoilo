@@ -2,10 +2,12 @@
 <!Doctype>
   <html>
    
-   <head> Welcome!</head> 
-    <h6> This is my website  </h6>
+   <head> Welcome to my website!</head> 
+   
+   
+   <h3> About Me  </h3>
    <body>
-   <p> Hello everyone, welcome to my website. My name is Dellarie and I like ...  </p>
+   <p> My name is Dellarie and I like ...  </p>
    
    
    
