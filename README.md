@@ -1,6 +1,13 @@
 # Portfoilo
 <!Doctype>
   <html>
-    <body>
-      <img src="DSCN084.JPG style="width:304px;height:228px;"/>
+   
+   <head> Welcome!</head> 
+    <h6> This is my website  </h6>
+   <body>
+   <p> Hello everyone, welcome to my website. My name is Dellarie and I like ...  </p>
+   
+   
+   
+   <img src=";"/>
                                                   
